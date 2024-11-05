@@ -1,4 +1,4 @@
-Hi 👋 My name is Jakub Majerčík
+Hi 👋
 ===============================
 
 Front-end developer
